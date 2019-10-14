@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Profile Builder</string>
+    <string name="firstNameLabel">First Name</string>
+    <string name="lastNameLabel">Last Name</string>
+    <string name="selectGenderText">Select Gender</string>
+    <string name="saveButton">Save</string>
+    <string name="title_activity_view">viewActivity</string>
+    <string name="female_label">Female</string>
+    <string name="male_label">Male</string>
+    <string name="title_activity_display">displayActivity</string>
+    <string name="editButtonLabel">Edit</string>
+</resources>
